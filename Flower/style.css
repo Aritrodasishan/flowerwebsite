@@ -1,0 +1,339 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: lato;
+    /* box-sizing:border-box; */
+    
+
+        box-sizing: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        /* outline: none; */
+        /* border: none; */
+        /* text-decoration: none; */
+        /* text-transform: capitalize;   */
+     
+    
+}
+
+.hero{
+    height: 818px;
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    display: flex;
+}
+.left_side{
+    margin-top: 200px;
+    padding-left: 100px;
+    font-size: 30px;
+}
+.left_side p{
+    font-size: 12px;
+}
+.right_side{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* margin-right: 25%; */
+    padding-right: 10%;
+    padding-left: 20%;
+
+    
+    
+} 
+
+
+button{
+    border-radius: 8px;
+background: #E55473;
+
+    border: none;
+    padding: 20px 43px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+
+
+
+/* font size */
+ .nav-title{   
+
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+    
+    color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+} 
+
+
+
+
+
+ */
+.abc{
+    display: flex;
+    padding-left: 25%;
+    padding-top: 5%;
+    gap: 20px;
+    /* font-size: 55px; */
+}
+ .ctaa{
+    background: #FEF7F8;
+    /* padding: 30px; */
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+height: 10px;
+padding-left: 25%;
+padding-top: 5%;
+gap: 200px;
+    
+}
+
+.cta h3{
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+.cta_text{
+    /* text-align: center; */
+    padding-top: 100px;
+    font-size: 28px;
+}
+.cta_text p{
+    font-size: 18px;
+    color: #7D7A7B;
+    font-weight: 100px;
+    margin-bottom: 20px;
+    padding-right: 80;
+}
+
+.cta button{
+    background-color: #E55473;
+    border: none;
+    padding: 20px 60px;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.cta_button{
+    margin-left: 37%;
+}
+/* .cta_image{
+float: right;
+    margin-left: 50%;
+    margin-bottom: 50px;
+    /* margin-right: 300px; */
+    /* margin-top: 0px; */
+    /* padding-bottom: 10%; */
+/* } */ */
+
+.stylish{
+    color: #E55473;
+}
+.style{
+    color: #E55473;
+}
+.rightpicture{
+float: right; 
+} 
+
+
+.banner-title{ 
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;  
+
+} 
+
+
+.button{
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+display: inline-flex;
+
+
+
+color: white;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.image {
+    /* padding: 30 30 30 150 ; */
+    width: 635px;
+    height: 800px;
+    /* flex-shrink: 0; */
+    gap: 20px;
+    padding-left: 13%;
+    width: 550px;
+height: 600px;
+display: flex;
+padding-top: 2%;
+}
+.instagram image {
+    display: flex;
+    /* content: " "; */
+    padding-top: 2%;
+    /* grid-area: 24px; */
+    width: 342px;
+height: 396px;
+/* flex-shrink: 0; */
+/* width: 550px; */
+height: 600px;
+/* flex-shrink: 0; */
+gap: 2px;
+padding-left: 13%;
+    
+
+
+}
+
+.secondbanner {
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.secondbanner button{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+
+border-radius: 8px;
+background: #E55473;
+}
+main{
+    width: 1922px;
+height: 620px;
+flex-shrink: 0;
+
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+} 
+
+.instagram{
+    justify-content: center;
+    padding-top: 5%;
+}
+.insta h4{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 190px;
+
+}
+.insta p{ 
+    display: flex;
+    text-align: center;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left: 690px;
+   
+}
+
+
+
+
+
+.deals{
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(rectangle9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    width: 1000px;
+height: 100px;
+border-radius: 8px;
+
+}
+footer{
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+text-align: center;
+
+
+}
+.flowershop {
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+display: flex;
+
+}
+.flowershop p{
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+}
+.flowerstyle{
+    
+    color: #FFFFFF; 
+}
+
+
+.flowershop h3 {
+    margin-top: 50px;
+}
+.paragraph {
+    text-align: center;
+}
+.link {
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
